@@ -1,0 +1,1 @@
+# My KiCad templates
